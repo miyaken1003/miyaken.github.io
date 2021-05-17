@@ -1,5 +1,9 @@
 ![アバター](御本尊用定時で帰る.PNG)
 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/miyaken1003?ref_src=twsrc%5Etfw">Tweets by miyaken1003</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+"My Sketch" by kenta miyamotohttp://openprocessing.org/sketch/1196711Licensed under Creative Commons Attribution ShareAlikehttps://creativecommons.org/licenses/by-sa/3.0
+
 # About
 元MR薬剤師
 大阪や静岡でMRとして7年従事。売れるMRではなかったが、嫌われるほうではなかったかと思う。
