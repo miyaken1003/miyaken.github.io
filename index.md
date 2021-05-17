@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# About
+元MR薬剤師
+大阪や静岡でMRとして7年従事。売れるMRではなかったが、嫌われるほうではなかったかと思う。
+これからの会社や職種としての将来性や、自分の適性、家族の環境など様々要因が相まって転職を決意。ちょうどそのタイミングで、現職社長よりオファーをもらい転職しました。
 
-You can use the [editor on GitHub](https://github.com/miyaken1003/miyaken.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+現職は都内で薬剤師として2年従事。保守的な業界だが、チャレンジ精神旺盛な社長の元、のびのびと働かせてもらっている。いざこの会社が吹き飛んでも、個々の力を伸ばしどこでも生き抜けるスキルを身につけるべく、社内環境整備や経営企画、人事経験などを積んでいる。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+また、薬局業界はIT化が非常に遅れており、その中でなにか小さなことでもできないか考えた結果、プログラミングを学ぶことを決意。外注したら高価なシステムでも、自作できればなんとかなるやろ的なヌルい考えでいましたが、プログラミングの敷居の高さや問題点に日々直面しています。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miyaken1003/miyaken.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Profile
+ - みや★けん
+ - 東京都
+ - 実施済み教材
+   - Progate
+   - N予備校
+   - Google Apps Script
+ - 言語
+   - Javascript
+   - Nodo.js
